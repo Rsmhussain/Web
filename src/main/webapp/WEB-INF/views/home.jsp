@@ -8,8 +8,8 @@
         <title>GFS-Home</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>GFS - Hello World!</h1>
         <p>This is the homepage! Debit - Credit</p>
-        <marquee>-- Welcome to GFS Debit Credit--</marquee>
+        <marquee>-- Welcome to GFS Debit Credit   --</marquee>
     </body>
 </html>
