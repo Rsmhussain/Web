@@ -5,10 +5,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Home</title>
+        <title>GFS-Home</title>
     </head>
     <body>
         <h1>Hello World!</h1>
         <p>This is the homepage! Debit - Credit</p>
+        <marquee>-- Welcome to GFS Debit Credit --</marquee>
     </body>
 </html>
