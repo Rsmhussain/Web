@@ -10,6 +10,6 @@
     <body>
         <h1>GFS - Hello World!</h1>
         <p>This is the homepage! Debit - Credit</p>
-        <marquee>-- Welcome to GFS Debit Credit //// --</marquee>  
+        <marquee>-- Welcome to GFS Debit Credit - CHANGE //// --</marquee>  
     </body>
 </html>
